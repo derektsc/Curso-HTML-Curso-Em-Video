@@ -1,0 +1,15 @@
+@font-face {
+    font-family: Ancient;
+    src: url('Ancient Medium.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body{
+    font-family:  Arial, Helvetica, sans-serif;
+}
+
+h1{
+    font-family: 'Ancient', Times, serif;
+    font-size: 3em;
+}
