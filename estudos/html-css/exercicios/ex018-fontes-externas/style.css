@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Patrick+Hand&display=swap');
+
+body{
+    font: normal normal 2em serif;
+}
+
+h1{
+    font-family: 'Patrick Hand', Times, serif;
+}
