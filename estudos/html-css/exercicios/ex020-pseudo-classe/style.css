@@ -16,3 +16,29 @@ div > p{
     display: none;
 }
 
+a{
+    color: blue;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:visited{
+    color: darkred;
+}
+
+a:hover{
+    color: black;
+    text-decoration: underline;
+}
+
+a:active{
+    color: green;
+}
+
+a::after{
+    content: '[link]';
+    text-decoration: none;
+    font-weight: normal;
+    color: darkgray;
+}
+

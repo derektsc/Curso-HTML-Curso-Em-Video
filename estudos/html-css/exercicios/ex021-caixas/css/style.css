@@ -1,0 +1,50 @@
+body{
+    font-family: sans-serif;
+    background-color: dimgray;
+}
+
+header{
+    background-color: white;
+    padding: 10px;
+    margin: 10px;
+}
+
+nav{
+    background-color: rgba(173, 24, 24, 0.603);
+    padding: 3px;
+}
+
+nav > link{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+
+nav > a:hover{
+    text-decoration: underline;
+    color: yellow;
+}
+
+
+main{
+    background-color: white;
+    padding: 10px;
+    margin: 10px;
+}
+
+article{
+    background-color: lightgray;
+}
+
+article > aside{
+    background-color: lightblue;
+    padding: 5px;
+}
+
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 1px;
+    margin: 0px;
+}

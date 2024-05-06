@@ -1,0 +1,39 @@
+h1{
+    background-color: lightgray;
+    height: 300px;
+    width: 300px;
+    border-width: 10px;
+    border-style: solid;
+    border-color: darkgray;
+
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+
+    margin: auto;
+
+    outline-width: 5px;
+    outline-style: dashed;
+    outline-color: salmon;
+}
+
+a{
+    border-width: 3px;
+    border-style: solid;
+    border-color: red;
+}
+
+p{
+    background-color: rgb(59, 204, 204);
+    height: 300px;
+    width: 800px;
+    
+    border: 10px solid darkkhaki;
+
+    padding: 10px 20px;
+
+    margin: 20px 20px 40px 20px;
+    
+    outline: 5px dashed red;
+}
