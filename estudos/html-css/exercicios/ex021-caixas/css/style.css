@@ -12,6 +12,7 @@ header{
 nav{
     background-color: rgba(173, 24, 24, 0.603);
     padding: 3px;
+    box-shadow: 2px 2px 7px rgba(0, 0, 0, 0.658);
 }
 
 nav > link{
@@ -45,6 +46,10 @@ footer{
     background-color: black;
     color: white;
     text-align: center;
-    padding: 1px;
+    padding: 2px;
+    margin: 0px;
+}
+
+footer > p{
     margin: 0px;
 }
