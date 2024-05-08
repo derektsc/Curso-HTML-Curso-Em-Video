@@ -85,9 +85,7 @@ div#video{
     height: 450px;
 }
 
-h3{
-    margin-top:0px;
-}
+
 
 footer{
     background-color: #195b38;
@@ -102,6 +100,27 @@ footer > p{
 }
 
 div#aprender{
+    background-color: #c5ebd6;
+    width: 850px;
+    margin: auto;
+    box-shadow: 3px 3px 3px rgba(10, 10, 10, 0.363);
+    outline-width: 0.5px;
+    outline-style: solid;
+    border-radius: 10px;
+}
+
+div#aprender > h3{
+    display: block;
+    background-color: #2fa866;
+    color: white;
+    border-radius: 10px 10px 0px 0px;
+    height: 30px;
+    padding-top: 10px;
+    padding-left: 4px;
+}
+
+div#lastblock{
+    padding: 10px 0px 0px 0px;
     background-color: white;
     width: 900px;
     margin: auto;
@@ -110,4 +129,5 @@ div#aprender{
     outline-style: solid;
     border-radius: 0px 0px 10px 10px;
 }
+
 
