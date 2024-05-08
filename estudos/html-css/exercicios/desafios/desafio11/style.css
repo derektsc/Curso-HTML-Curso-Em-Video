@@ -83,9 +83,10 @@ img{
 div#video{
     background-color: #195b38;
     height: 450px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
-
-
 
 footer{
     background-color: #195b38;
